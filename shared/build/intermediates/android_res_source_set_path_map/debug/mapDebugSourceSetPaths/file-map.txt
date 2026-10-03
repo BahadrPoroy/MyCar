@@ -1,0 +1,9 @@
+com.example.mycar.shared-pngs-0 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\generated\res\pngs\debug
+com.example.mycar.shared-updated_navigation_xml-1 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\generated\updated_navigation_xml\debug
+com.example.mycar.shared-mergeDebugResources-2 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mycar.shared-mergeDebugResources-3 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mycar.shared-debug-4 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mycar.shared-debug-5 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.mycar.shared-debug-6 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\debug\res
+com.example.mycar.shared-main-7 C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\res
+gradleHome-0 C:\Users\bporo\.gradle

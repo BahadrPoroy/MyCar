@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mycar.shared" >
+4
+5    <uses-sdk android:minSdkVersion="33" />
+5-->INJECTED
+5-->INJECTED
+6
+7    <uses-permission android:name="com.google.android.gms.permission.CAR_SPEED" />
+7-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:3:5-83
+7-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:3:22-80
+8
+9    <application>
+9-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:5:5-21:19
+10
+11        <!-- Minimum Car API level -->
+12        <meta-data
+12-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:7:9-9:33
+13            android:name="androidx.car.app.minCarApiLevel"
+13-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:8:13-59
+14            android:value="3" />
+14-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:9:13-30
+15
+16        <service
+16-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:11:9-20:19
+17            android:name="com.example.mycar.shared.MyCarAppService"
+17-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:12:13-68
+18            android:exported="true" >
+18-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:13:13-36
+19            <intent-filter>
+19-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:14:13-19:29
+20                <action android:name="androidx.car.app.CarAppService" />
+20-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:15:17-73
+20-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:15:25-70
+21                <!-- Other categories: NAVIGATION, CHARGING, IOT, ... -->
+22                <category android:name="androidx.car.app.category.POI" />
+22-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:17:17-74
+22-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:17:27-71
+23                <category android:name="androidx.car.app.category.IOT" />
+23-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:18:17-74
+23-->C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:18:27-71
+24            </intent-filter>
+25        </service>
+26    </application>
+27
+28</manifest>

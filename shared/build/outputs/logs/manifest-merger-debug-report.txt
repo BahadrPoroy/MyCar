@@ -1,0 +1,48 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:1:1-22:12
+	package
+		INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:1:11-69
+uses-permission#com.google.android.gms.permission.CAR_SPEED
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:3:5-83
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:3:22-80
+application
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:5:5-21:19
+meta-data#androidx.car.app.minCarApiLevel
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:7:9-9:33
+	android:value
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:9:13-30
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:8:13-59
+service#com.example.mycar.shared.MyCarAppService
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:11:9-20:19
+	android:exported
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:12:13-68
+intent-filter#action:name:androidx.car.app.CarAppService+category:name:androidx.car.app.category.IOT+category:name:androidx.car.app.category.POI
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:14:13-19:29
+action#androidx.car.app.CarAppService
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:15:17-73
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:15:25-70
+category#androidx.car.app.category.POI
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:17:17-74
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:17:27-71
+category#androidx.car.app.category.IOT
+ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:18:17-74
+	android:name
+		ADDED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml:18:27-71
+uses-sdk
+INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bporo\AndroidStudioProjects\MyCar\shared\src\main\AndroidManifest.xml

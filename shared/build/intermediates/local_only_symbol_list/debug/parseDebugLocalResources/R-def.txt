@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+string about_desc
+string about_title
+string app_name
+string app_version
+string current_speed
+string menu_about
+string speed_title
+string waiting_data
+xml automotive_app_desc

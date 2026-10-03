@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Car</string>
+    <string name="menu_about">Hakkında</string>
+    <string name="about_title">Uygulama Hakkında</string>
+    <string name="about_desc">My Car, araç hızı ve takibi için geliştirilmiş bir araç uygulamasıdır.</string>
+    <string name="app_version">Uygulama Versiyonu: %1$s</string>
+</resources>
